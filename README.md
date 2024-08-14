@@ -1,2 +1,5 @@
-# Analise_de_acidentes_ANTT
- Análise de dados via Python/SQL aplicada a acidentes de trânsito registrados no site oficial da ANTT (Bahia, ano de 2024).
+# Análise de dados via Python/SQL aplicada a acidentes de trânsito registrados no site oficial da ANTT (Bahia, ano de 2024).
+
+No complexo mundo da logística, onde eficiência e segurança são essenciais, a análise de dados emerge como uma ferramenta indispensável para entender padrões, identificar áreas de melhoria e tomar decisões estratégicas fundamentadas. Neste artigo, mostro uma análise de dados aplicados a acidentes de trânsito do estado da Bahia no ano de 2024 via Python/ SQL, utilizando conjuntos de dados disponíveis no site da ANTT (Agência Nacional de Transportes Terrestres).
+
+A logística desempenha um papel vital em todas as esferas da economia, desde a movimentação de mercadorias até o transporte de pessoas. No entanto, junto com os benefícios do transporte eficiente, vêm os desafios da segurança viária. Os acidentes de trânsito não apenas representam uma ameaça à vida e à segurança dos indivíduos, mas também têm um impacto significativo nos custos operacionais e na reputação das empresas de logística. O primeiro passo da análise foi a importação das bibliotecas, dataset específico da ANTT e uma primeira visualização da base carregada:
